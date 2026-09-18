@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "auth",
+  "component": "pyjwt",
+  "intended_revision": "c6fe464b356ff4b1ebc9ba62172d331a40aa27df",
+  "intended_tag_version": "2.14.0",
+  "notes": "Licence MIT (LICENSE in tree).",
+  "required_by": "cli: mcp wheel Requires-Dist pyjwt[crypto]>=2.10.1; the [crypto] extra is selected, so cryptography becomes RUNTIME REQUIRED (not yet acquired)",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/jpadilla/pyjwt"
+}

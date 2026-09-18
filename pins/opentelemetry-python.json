@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "telemetry",
+  "component": "opentelemetry-python",
+  "intended_revision": "53a5a40c9604583c501bcf13970a635f00e62df4",
+  "intended_tag_version": "v1.44.0",
+  "notes": "Licence Apache-2.0 (LICENSE in tree). Monorepo: the opentelemetry-api distribution is the opentelemetry-api/ subdirectory.",
+  "required_by": "cli: mcp wheel Requires-Dist opentelemetry-api>=1.28.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/open-telemetry/opentelemetry-python"
+}

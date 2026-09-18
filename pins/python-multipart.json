@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "python-multipart",
+  "intended_revision": "238ead62a0bb6f6cdfe122708faa13812f59f9a6",
+  "intended_tag_version": "0.0.32",
+  "notes": "Licence Apache-2.0 (LICENSE.txt in tree).",
+  "required_by": "cli: mcp wheel Requires-Dist python-multipart>=0.0.9",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/Kludex/python-multipart"
+}

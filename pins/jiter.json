@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "json",
+  "component": "jiter",
+  "intended_revision": "2b5ec63e505b44775e29b865c3161ea13bdad16b",
+  "intended_tag_version": "v0.17.0",
+  "notes": "Licence MIT (LICENSE in tree). Rust/maturin extension; Cargo closure via cargo-update-recipe-crates.",
+  "required_by": "cli: anthropic-sdk-python wheel Requires-Dist jiter<1,>=0.4.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/pydantic/jiter"
+}

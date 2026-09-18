@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "json",
+  "component": "referencing",
+  "intended_revision": "944ed5a20bc5125f2349156cbdc365daac0e67e6",
+  "intended_tag_version": "v0.37.0",
+  "notes": "Licence MIT (COPYING in tree). Submodule suite = referencing-suite 792cb7f98ac2 (test suite), committed as a tree. Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: jsonschema referencing>=0.28.4; jsonschema-specifications referencing>=0.31.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/python-jsonschema/referencing"
+}

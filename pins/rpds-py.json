@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "json",
+  "component": "rpds-py",
+  "intended_revision": "7277eb681f6efd67eca1bbaa32f78d78bdc044a5",
+  "intended_tag_version": "v2026.6.3",
+  "notes": "Licence MIT (LICENSE in tree). Rust/maturin extension; Cargo closure via cargo-update-recipe-crates. Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: jsonschema rpds-py>=0.25.0; referencing rpds-py>=0.7.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/crate-py/rpds"
+}

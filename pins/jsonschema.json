@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "json",
+  "component": "jsonschema",
+  "intended_revision": "a7277432b0f7bcd0551f6e589d30457017125df4",
+  "intended_tag_version": "v4.26.0",
+  "notes": "Licence MIT (COPYING in tree).",
+  "required_by": "cli: mcp wheel Requires-Dist jsonschema>=4.20.0; its runtime closure attrs, jsonschema-specifications, referencing, rpds-py is NOT yet acquired",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/python-jsonschema/jsonschema"
+}

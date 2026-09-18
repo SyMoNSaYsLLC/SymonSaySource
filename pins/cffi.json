@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ffi",
+  "component": "cffi",
+  "intended_revision": "fd33e7700f0ebafe6f30bd5053f13327221b77a2",
+  "intended_tag_version": "v2.1.1",
+  "notes": "Licence MIT-0 (LICENSE in tree). C extension. Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: cryptography cffi>=2.0.0 (platform_python_implementation != PyPy)",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/python-cffi/cffi"
+}

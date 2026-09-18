@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "json",
+  "component": "jsonschema-specifications",
+  "intended_revision": "3b846010c34ce254d8ced23023451d1d64de37f5",
+  "intended_tag_version": "v2025.9.1",
+  "notes": "Licence MIT (COPYING in tree). Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: jsonschema jsonschema-specifications>=2023.03.6",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/python-jsonschema/jsonschema-specifications"
+}

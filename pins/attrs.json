@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "data",
+  "component": "attrs",
+  "intended_revision": "7bfc49e9b22d5ba25b6e429524c3d49fee27cb36",
+  "intended_tag_version": "26.1.0",
+  "notes": "Licence MIT (LICENSE in tree). Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: jsonschema attrs>=22.2.0; referencing attrs>=22.2.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/python-attrs/attrs"
+}

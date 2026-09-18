@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "auth",
+  "component": "cryptography",
+  "intended_revision": "ffde75a2b594822c740a2e4748b56c00548302bf",
+  "intended_tag_version": "50.0.1",
+  "notes": "Licence Apache-2.0 OR BSD-3-Clause (LICENSE, LICENSE.APACHE, LICENSE.BSD in tree). Rust/maturin extension linking the target OpenSSL. Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: pyjwt[crypto] cryptography>=3.4.0 (the [crypto] extra is selected by mcp)",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/pyca/cryptography"
+}

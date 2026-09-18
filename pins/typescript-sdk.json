@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "mcp",
+  "component": "typescript-sdk",
+  "intended_revision": "cc4b41617ce3601b1290d67216ea0b194a3cd9ac",
+  "intended_tag_version": "v2 GA 2.0.0",
+  "notes": "Tag-to-commit VERIFIED: cc4b4161 is the workspace release commit carrying 9 v2 GA package tags @2.0.0 (client, codemod, core, express, fastify, hono, node, server, server-legacy). No sdk@2.0.0 tag exists; the v1 'sdk' package name is absent from the v2 set, so the public release identity is the package set, not a root workspace version.",
+  "required_by": "cli: MCP TypeScript SDK.",
+  "revision_authority": "release decision - tag-to-commit verified upstream",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/modelcontextprotocol/typescript-sdk"
+}

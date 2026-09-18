@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "sse-starlette",
+  "intended_revision": "6754ef387da97cf6cfbcd1bd5c216b533937b304",
+  "intended_tag_version": "v3.4.11",
+  "notes": "Licence BSD-3-Clause (LICENSE in tree).",
+  "required_by": "cli: mcp wheel Requires-Dist sse-starlette>=3.0.0",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/sysid/sse-starlette"
+}

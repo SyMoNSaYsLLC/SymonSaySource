@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ffi",
+  "component": "pycparser",
+  "intended_revision": "77de509f0268f44ee587b5a4d9f0d680e269fcae",
+  "intended_tag_version": "release_v3.00",
+  "notes": "Licence BSD-3-Clause (LICENSE in tree). Pure Python. Version rule: newest release tag at acquisition (2026-09-14) that satisfies every recorded consumer constraint; chosen and recorded here, never implied.",
+  "required_by": "cli: cffi pycparser (implementation_name != PyPy)",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/eliben/pycparser"
+}

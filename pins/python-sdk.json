@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "mcp",
+  "component": "python-sdk",
+  "intended_revision": "9972c21aa42054fb1450c5fc614761ed11847ec6",
+  "intended_tag_version": "v2.2.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "CLI + API: MCP Python SDK (shared).",
+  "revision_authority": "release decision",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/modelcontextprotocol/python-sdk"
+}

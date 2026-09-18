@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "docstring-parser",
+  "intended_revision": "87dca55a7b5bdc854ad1d190f1c461015ba5f008",
+  "intended_tag_version": "0.18.0",
+  "notes": "Licence MIT (LICENSE.md in tree).",
+  "required_by": "cli: anthropic-sdk-python wheel Requires-Dist docstring-parser<1,>=0.15",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/rr-/docstring_parser"
+}

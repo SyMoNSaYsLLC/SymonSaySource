@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "anthropic",
+  "component": "anthropic-sdk-typescript",
+  "intended_revision": "135f71e9297683e14614d4307081c0273ed0a09c",
+  "intended_tag_version": "sdk-v0.125.0",
+  "notes": "Previously blocked: recipetool npm handler requires nodejs-native.",
+  "required_by": "cli: Anthropic TypeScript SDK.",
+  "revision_authority": "release decision",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/anthropics/anthropic-sdk-typescript"
+}

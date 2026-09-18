@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "httpx2",
+  "intended_revision": "71ae23be5448f859c2b4e21d9972ddfa7b8d759d",
+  "intended_tag_version": "v2.12.0",
+  "notes": "Licence BSD-3-Clause (LICENSE.md in tree). uv workspace: src/httpx2 and src/httpcore2 are two distributions built from this one tree (two recipes, PEP517_SOURCE_PATH). Canonical upstream per PyPI metadata; encode/httpx has no 2.x tags.",
+  "required_by": "cli: anthropic-sdk-python httpx2<3,>=2.0.0; mcp httpx2>=2.5.0; starlette 1.6 testclient prefers httpx2",
+  "revision_authority": "same",
+  "runtime": "cli",
+  "upstream_url": "https://github.com/pydantic/httpx2"
+}

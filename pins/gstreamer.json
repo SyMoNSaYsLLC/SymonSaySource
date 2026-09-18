@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "gstreamer",
+  "component": "gstreamer",
+  "intended_revision": "070125524a8422e29d3b69a372ed4f62fd343ffa",
+  "intended_tag_version": "1.28.7",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "live: media pipeline framework.",
+  "revision_authority": "release decision",
+  "runtime": "live",
+  "upstream_url": "https://gitlab.freedesktop.org/gstreamer/gstreamer.git"
+}

@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "inference",
+  "component": "triton",
+  "intended_revision": "c01b6774b1865984607d89d89d3a10833de92037",
+  "intended_tag_version": "v3.8.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "llm: GPU kernel compiler (arrives via torch at build time).",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "llm",
+  "upstream_url": "https://github.com/triton-lang/triton"
+}

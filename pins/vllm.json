@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "inference",
+  "component": "vllm",
+  "intended_revision": "98dff2a81d747d1dba01a47f939f48c3526d4206",
+  "intended_tag_version": "v0.29.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "llm: inference server.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "llm",
+  "upstream_url": "https://github.com/vllm-project/vllm"
+}

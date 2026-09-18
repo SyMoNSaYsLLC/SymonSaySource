@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "inference",
+  "component": "llama.cpp",
+  "intended_revision": "5266f24da75dc449bd56cbed7addb9c8e4a6a73e",
+  "intended_tag_version": "b10809 (also v0.4.0)",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "llm: CPU/GPU inference in C++.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "llm",
+  "upstream_url": "https://github.com/ggml-org/llama.cpp"
+}

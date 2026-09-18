@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "inference",
+  "component": "ggml",
+  "intended_revision": "e91ded11bdcd78c42f9c8d3978ff6686eb4c1226",
+  "intended_tag_version": "v0.23.0 (= llama.cpp scripts/sync-ggml.last e91ded11)",
+  "notes": "Licence MIT (LICENSE in tree).",
+  "required_by": "llm: canonical ggml for libggml; llama.cpp 5266f24da75d syncs exactly this commit (scripts/sync-ggml.last) and its vendored ggml/ is byte-identical (diff -rq include src cmake: 0 differences, 2026-09-13). llama.cpp will link it with LLAMA_USE_SYSTEM_GGML=ON.",
+  "revision_authority": "work/tools/map-llama-upstreams.py: sync-ggml.last of the pinned llama.cpp; never 'latest ggml'",
+  "runtime": "llm",
+  "upstream_url": "https://github.com/ggml-org/ggml"
+}

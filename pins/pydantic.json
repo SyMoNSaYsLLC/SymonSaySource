@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "model",
+  "component": "pydantic",
+  "intended_revision": "001dea020e0809844e5b17666432c9135a976f46",
+  "intended_tag_version": "v2.13.5 (also core-v2.46.5)",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: data model/validation.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/pydantic/pydantic"
+}

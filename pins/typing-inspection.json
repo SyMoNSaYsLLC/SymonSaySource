@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "model",
+  "component": "typing-inspection",
+  "intended_revision": "83d4dbb74fc367db4403c76be8c0f83cd4b63fbe",
+  "intended_tag_version": "v0.4.4",
+  "notes": "Licence MIT read from LICENSE in the tree at the pin. Build backend: hatchling.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): fastapi >=0.4.2; pydantic >=0.4.2; mcp >=0.4.1",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/pydantic/typing-inspection"
+}

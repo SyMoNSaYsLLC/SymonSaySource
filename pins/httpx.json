@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "httpx",
+  "intended_revision": "26d48e0634e6ee9cdc0533996db289ce4b430177",
+  "intended_tag_version": "0.28.1",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: HTTP client.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/encode/httpx"
+}

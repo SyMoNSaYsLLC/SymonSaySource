@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "model",
+  "component": "typing-extensions",
+  "intended_revision": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+  "intended_tag_version": "4.16.0",
+  "notes": "Licence PSF-2.0 read from LICENSE in the tree at the pin. Build backend: flit.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): fastapi >=4.8.0; pydantic >=4.14.1; anthropic-sdk-python <5,>=4.14; mcp >=4.13.0; huggingface-hub >=4.1.0; pydantic-core >=4.14.1; typing-inspection; annotated-types",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/python/typing_extensions"
+}

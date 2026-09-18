@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "web",
+  "component": "starlette",
+  "intended_revision": "4f250d6b814587e20c5365f0a5f0c4d42bcb929f",
+  "intended_tag_version": "1.6.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: ASGI toolkit under FastAPI.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/encode/starlette"
+}

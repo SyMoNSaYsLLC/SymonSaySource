@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "model",
+  "component": "annotated-doc",
+  "intended_revision": "ef48d6ad51d226f772fd9c5284f55199afe4007c",
+  "intended_tag_version": "0.0.5",
+  "notes": "Licence MIT read from LICENSE in the tree at the pin. Build backend: pdm.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): fastapi >=0.0.2",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/fastapi/annotated-doc"
+}

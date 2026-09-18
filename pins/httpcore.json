@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "httpcore",
+  "intended_revision": "98209758cc14e1a5f966fe1dfdc1064b94055d8c",
+  "intended_tag_version": "1.0.9",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: transport under httpx.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/encode/httpcore"
+}

@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "web",
+  "component": "uvicorn",
+  "intended_revision": "8988c23704fc373c9206cca53ec57dd8ad7f44a5",
+  "intended_tag_version": "0.52.4",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: ASGI server.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/encode/uvicorn"
+}

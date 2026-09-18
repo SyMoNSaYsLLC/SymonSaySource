@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "certifi",
+  "intended_revision": "f4bc676bc101fe2235846e37044e8c693d6cbaf4",
+  "intended_tag_version": "2026.07.22",
+  "notes": "Licence MPL-2.0 read from LICENSE in the tree at the pin. Build backend: setuptools.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): httpx any; httpcore any",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/certifi/python-certifi"
+}

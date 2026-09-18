@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "web",
+  "component": "click",
+  "intended_revision": "8b19813f2bfca99f1018a587a8cf54fc959f2e5d",
+  "intended_tag_version": "8.5.0",
+  "notes": "Licence BSD-3-Clause read from LICENSE.txt in the tree at the pin. Build backend: flit.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): uvicorn >=7.0; huggingface-hub <9.0.0,>=8.4.2",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/pallets/click"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "sniffio",
+  "intended_revision": "ae020e13b98d276a6558ffc25e82509fd4c288f0",
+  "intended_tag_version": "v1.3.1",
+  "notes": "Licence MIT OR Apache-2.0 read from LICENSE, LICENSE.MIT, LICENSE.APACHE2 in the tree at the pin. Build backend: setuptools_scm.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): anyio; anthropic-sdk-python <2,>=1",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/python-trio/sniffio"
+}

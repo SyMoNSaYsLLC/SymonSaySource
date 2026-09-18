@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "h11",
+  "intended_revision": "1c5b07581f058886c8bdd87adababd7d959dc7ca",
+  "intended_tag_version": "v0.16.0",
+  "notes": "Licence MIT read from LICENSE.txt in the tree at the pin. Build backend: setup.py.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): httpcore >=0.16; uvicorn >=0.8",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/python-hyper/h11"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "idna",
+  "intended_revision": "03a9a11dd8aecd4fea742cabe20f4d3d9ed82abb",
+  "intended_tag_version": "v3.19",
+  "notes": "Licence BSD-3-Clause read from LICENSE.md in the tree at the pin. Build backend: flit.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): httpx any; anyio",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/kjd/idna"
+}

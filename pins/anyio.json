@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "http",
+  "component": "anyio",
+  "intended_revision": "ffcd1542cd6d127980205f90a0100078849dd703",
+  "intended_tag_version": "4.15.1",
+  "notes": "Licence MIT read from LICENSE in the tree at the pin. Build backend: setuptools_scm.",
+  "required_by": "API runtime closure (Requires-Dist of built wheels): starlette <5,>=3.6.2; httpx any; anthropic-sdk-python <5,>=3.5.0; mcp >=4.10",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable release tag satisfying every consumer constraint; own what you ship (provider-decisions.json rule; pydantic-core-ownership ruling extended to all runtime-shipped Python distributions)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/agronholm/anyio"
+}

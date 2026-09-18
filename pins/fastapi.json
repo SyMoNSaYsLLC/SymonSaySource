@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "web",
+  "component": "fastapi",
+  "intended_revision": "95f8322ee1dcda7ceace7b1c4f6c9915b36d748f",
+  "intended_tag_version": "0.141.1",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "api: HTTP framework.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "api",
+  "upstream_url": "https://github.com/fastapi/fastapi"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "autotools",
+  "component": "automake",
+  "intended_revision": "e82d2d34d4626445565bc131f6580b59597d0c62",
+  "intended_tag_version": "1.19",
+  "notes": "",
+  "required_by": "Symoneural-Build: autotools chain.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "build",
+  "upstream_url": "https://git.savannah.gnu.org/git/automake.git"
+}

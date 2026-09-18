@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "autotools",
+  "component": "libtool",
+  "intended_revision": "309bb53a8adfb22c6e5869cc8da049bf123e5438",
+  "intended_tag_version": "2.6.2",
+  "notes": "",
+  "required_by": "Symoneural-Build: autotools chain.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "build",
+  "upstream_url": "https://git.savannah.gnu.org/git/libtool.git"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "autotools",
+  "component": "m4",
+  "intended_revision": "fe2f13ab9ab9b3e712c6529f0b2a49a81feb6ce2",
+  "intended_tag_version": "1.4.21",
+  "notes": "",
+  "required_by": "Symoneural-Build: autotools chain.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "build",
+  "upstream_url": "https://git.savannah.gnu.org/git/m4.git"
+}

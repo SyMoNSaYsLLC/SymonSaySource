@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "devtools",
+  "component": "openembedded-core",
+  "intended_revision": "fe7a24bc67118e7e184b5f5247258715e3904e7c",
+  "intended_tag_version": "UNTAGGED uninative-5.2-753-gfe7a24bc67 (master)",
+  "intended_tag_version_previous": "5.0.19",
+  "notes": "Advanced from 2814f0962f56. The acquired copy was two generations behind the stack actually building everything; the project's own copy of its build stack should BE the build stack, not a stale souvenir.",
+  "required_by": "Symoneural-Build: supplies devtool/recipetool and the class library.",
+  "revision_authority": "Garrett decision (overnight Phase 8): match the stack in use",
+  "runtime": "build",
+  "upstream_url": "https://git.openembedded.org/openembedded-core"
+}

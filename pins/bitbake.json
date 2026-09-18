@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "bitbake",
+  "component": "bitbake",
+  "intended_revision": "046a90b0e9b7b914b7a95aec579cdc3fc9c7617a",
+  "intended_tag_version": "UNTAGGED yocto-6.1_M2-99-g046a90b0e (bitbake 2.19.1)",
+  "intended_tag_version_previous": "2.8.1",
+  "notes": "Advanced from 0880963fea4d. The acquired copy was two generations behind the stack actually building everything; the project's own copy of its build stack should BE the build stack, not a stale souvenir.",
+  "required_by": "Symoneural-Build: the task execution engine itself.",
+  "revision_authority": "Garrett decision (overnight Phase 8): match the stack in use",
+  "runtime": "build",
+  "upstream_url": "https://git.openembedded.org/bitbake"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "autotools",
+  "component": "autoconf",
+  "intended_revision": "44d712a26b0e14931bf2df57e2c9b80a2747dfce",
+  "intended_tag_version": "2.73",
+  "notes": "",
+  "required_by": "Symoneural-Build: autotools chain.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "build",
+  "upstream_url": "https://git.savannah.gnu.org/git/autoconf.git"
+}

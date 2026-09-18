@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ninja",
+  "component": "ninja",
+  "intended_revision": "3441b633c2fe2c494e958780ba0f4227b1327634",
+  "intended_tag_version": "1.13.2",
+  "notes": "",
+  "required_by": "Symoneural-Build: build executor.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "build",
+  "upstream_url": "https://github.com/ninja-build/ninja"
+}

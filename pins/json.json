@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "json",
+  "intended_revision": "55f93686c01528224f448c19128836e7df245f72",
+  "intended_tag_version": "v3.12.0",
+  "notes": "header-only JSON; identical commit to pytorch's third_party/nlohmann submodule",
+  "required_by": "platform: symoneural-awcc dependency (AWCC's CMake FetchContent, pinned here instead of a moving branch)",
+  "revision_authority": "session selection: latest upstream release tag at acquisition (stb: master head, no tags upstream)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/nlohmann/json.git"
+}

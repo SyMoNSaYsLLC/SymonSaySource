@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "imgui",
+  "intended_revision": "f1cc2ae15e53a861a874c3034aae6798fde194ab",
+  "intended_tag_version": "v1.92.9b",
+  "notes": "Dear ImGui, compiled into awcc by its CMake (glfw + opengl3 backends); AWCC uses no docking API, so the non-docking release",
+  "required_by": "platform: symoneural-awcc dependency (AWCC's CMake FetchContent, pinned here instead of a moving branch)",
+  "revision_authority": "session selection: latest upstream release tag at acquisition (stb: master head, no tags upstream)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/ocornut/imgui.git"
+}

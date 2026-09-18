@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "libusb-cmake",
+  "intended_revision": "c8477c10ac2ac6b1718d4d498e102b9f18b776f5",
+  "intended_tag_version": "v1.0.30-0",
+  "notes": "CMake build of libusb 1.0.30 (sources vendored in the tree, no submodule), built statically into awcc; LGPL-2.1 static linking noted for the licence review",
+  "required_by": "platform: symoneural-awcc dependency (AWCC's CMake FetchContent, pinned here instead of a moving branch)",
+  "revision_authority": "session selection: latest upstream release tag at acquisition (stb: master head, no tags upstream)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/libusb/libusb-cmake.git"
+}

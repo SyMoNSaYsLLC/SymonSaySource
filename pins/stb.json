@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "stb",
+  "intended_revision": "2c980bb59875b0d32144a71867fbdebb2f77cd20",
+  "intended_tag_version": "master@2c980bb5",
+  "notes": "stb_image header only; upstream has no release tags - pinned to the master head at acquisition time",
+  "required_by": "platform: symoneural-awcc dependency (AWCC's CMake FetchContent, pinned here instead of a moving branch)",
+  "revision_authority": "session selection: latest upstream release tag at acquisition (stb: master head, no tags upstream)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/nothings/stb.git"
+}

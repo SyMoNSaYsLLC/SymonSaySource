@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "AWCC",
+  "intended_revision": "0ec42c4b3ddc3c4e412ad69353cd251e1f348280",
+  "intended_tag_version": "v1.19.0",
+  "notes": "GPL-3.0 executable; Alienware/Dell G-series control (thermal modes, lighting, G-mode) as daemon+CLI+GUI. Built with its six FetchContent dependencies pinned as separate sources and libevdev from oe-core; needs the acpi_call kernel module at run time (not yet acquired).",
+  "required_by": "Garrett 2026-09-14 ('we need to add this to our build'; 'you can do the awcc')",
+  "revision_authority": "session selection: latest release tag v1.19.0 (lightweight tag = commit)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/tr1xem/AWCC"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "alienware",
+  "component": "loguru",
+  "intended_revision": "ba2240d19baedc5a6727383040ff309810f0f825",
+  "intended_tag_version": "v2.2.0",
+  "notes": "logging library; CMake target loguru::loguru with LOGURU_WITH_STREAMS (AWCC pins moving master; v2.2.0 is that head, tagged 2026-09-10)",
+  "required_by": "platform: symoneural-awcc dependency (AWCC's CMake FetchContent, pinned here instead of a moving branch)",
+  "revision_authority": "session selection: latest upstream release tag at acquisition (stb: master head, no tags upstream)",
+  "runtime": "platform",
+  "upstream_url": "https://github.com/emilk/loguru"
+}

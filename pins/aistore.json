@@ -1,0 +1,24 @@
+{
+  "acquired": "2026-09-18",
+  "commit_date": "2026-08-21 15:42:21 -0400",
+  "commit_sha": "6b7de24419919d00fb2d3466bde6a7bc300e94d7",
+  "component": "aistore",
+  "copyright": "Copyright (c) 2017 NVIDIA Corporation",
+  "declared_license": "MIT",
+  "desktop_copy": "/home/google/Desktop/aistore-1.5.0 \u2014 byte-identical to this tag (diff -rq: 0 entries), extracted 2026-08-21",
+  "full_history": true,
+  "learning_allowed": "documentation structure (docs/docs.md index by audience, llms.txt, per-topic pages), release installer pattern (per-arch tarballs, latest/tag), staged benchmark pattern (bench/tools/aisloader/test/ci-test.sh) \u2014 applied to the product repo without copying text or code",
+  "license_file": "LICENSE",
+  "license_md5": "f70a21a0c5fa26a93820b0bef5be7619",
+  "role": "candidate object store for weights, datasets and release artifacts (the register-served idea); Go 1.26",
+  "runtime": "common",
+  "schema": "symoneural-acquisition/1",
+  "size_on_disk": "179M",
+  "status": "ACQUIRED, NOT BUILT, NOT SHIPPED \u2014 RULING REQUIRED: the tag commit is dated 2026-08-21, inside the August-2026 exclusion. Garrett pointed at the tree on 2026-09-18 and said 'when allowed'. Build only after his ruling.",
+  "tag": "v1.5.0",
+  "tree": "upstream/common/storage/aistore",
+  "upstream_url": "https://github.com/NVIDIA/aistore",
+  "vendored": [
+    "3rdparty/golang/mux (BSD-3-Clause)"
+  ]
+}

@@ -32,24 +32,26 @@ cannot be both a branch and a directory of branches.
 
 | Branch | Components | Licences declared |
 |---|---|---|
-| `adaptive-fabric` | 1 | — |
-| `api` | 15 | — |
-| `build` | 6 | — |
-| `build-stack` | 1 | — |
-| `cli` | 19 | — |
-| `common` | 23 | — |
-| `common-storage` | 0 | MIT |
-| `crypto` | 2 | — |
-| `diffuse` | 0 | — |
-| `live` | 0 | — |
-| `llm` | 3 | — |
-| `llm-engine` | 0 | MIT |
-| `llm-wasm` | 1 | MIT |
-| `platform` | 7 | — |
-| `ravencalc` | 11 | — |
-| `remix` | 0 | — |
-| `streamer` | 0 | — |
-| `web` | 1 | — |
+| `adaptive-fabric` | 2 | unrecorded (2) |
+| `api` | 16 | unrecorded (16) |
+| `build` | 7 | unrecorded (7) |
+| `build-stack` | 2 | unrecorded (2) |
+| `cli` | 20 | unrecorded (20) |
+| `common` | 24 | unrecorded (24) |
+| `common-storage` | 1 | MIT (1) |
+| `crypto` | 3 | unrecorded (3) |
+| `diffuse` | 1 | unrecorded (1) |
+| `live` | 1 | unrecorded (1) |
+| `llm` | 4 | unrecorded (4) |
+| `llm-engine` | 1 | MIT (1) |
+| `llm-wasm` | 2 | MIT (2) |
+| `platform` | 8 | unrecorded (8) |
+| `ravencalc` | 12 | unrecorded (12) |
+| `remix` | 1 | unrecorded (1) |
+| `streamer` | 1 | unrecorded (1) |
+| `web` | 2 | unrecorded (2) |
+
+108 components tracked across 18 branches.
 
 ## Updating a source
 

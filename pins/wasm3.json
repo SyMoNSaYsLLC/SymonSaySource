@@ -1,0 +1,16 @@
+{
+  "acquired": "2026-09-18",
+  "commit_sha": "deeaca9ce815565478ab854e0db9046a479c92ff",
+  "component": "wasm3",
+  "copyright": "2019 Steven Massey, Volodymyr Shymanskyy",
+  "declared_license": "MIT",
+  "licence_files_in_tree": 1,
+  "license_file": "LICENSE",
+  "license_md5": "ac9ceaa6b70f5d2a88c024143aeee653",
+  "note": "Sole licence file in the whole tree; verified by find, not assumed. C99 interpreter, CMake, no third-party bundles. Acquired as the MIT WASM runtime; workerd was rejected for now because its recipe is a recipetool stub with empty do_compile and it needs Bazel plus a patched V8.",
+  "runtime": "llm",
+  "schema": "symoneural-acquisition/1",
+  "tag": "v0.9.1-beta.1",
+  "tree": "upstream/llm/wasm/wasm3",
+  "upstream_url": "https://github.com/wasm3/wasm3"
+}

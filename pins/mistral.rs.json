@@ -1,0 +1,21 @@
+{
+  "acquired": "2026-09-18",
+  "commit_date": "2026-09-07 23:18:22 -0400",
+  "commit_sha": "d5ae0f18f2170f10d30880cb7d21fb0880410e7b",
+  "component": "mistral.rs",
+  "copyright": "Copyright (c) 2024 Eric Buehler",
+  "declared_license": "MIT",
+  "full_history": true,
+  "known_blocker": "mistralrs-quant/build.rs SUPPORTED_CUDA_TOOLKIT_VERSIONS stops at (13,3); this host has the 13.4 toolkit. Carried as a recipe patch, never applied to this tree. cudarc 0.19.9 needs CUDARC_CUDA_VERSION=13030.",
+  "licence_notes": "16 MPL-2.0 crates are hard dependencies of the server binary (audio decode, web-search HTML parsing, directories); file-level weak copyleft, shipped unmodified \u2014 passes the ship gate as WEAK_COPYLEFT_FILE; recorded for THIRD-PARTY-NOTICES. Zero GPL/LGPL/AGPL in the closure (verified by two agents).",
+  "license_file": "LICENSE",
+  "license_md5": "2066570cad546d63de123046c2640c56",
+  "role": "chat unit engine \u2014 the selected successor to the recorded substitution (rules 3.10)",
+  "runtime": "llm",
+  "schema": "symoneural-acquisition/1",
+  "selected_by": "reports/rust-engine-eval-2026-09-18.md (workflow wf_d9e6fea7-f03): native loading of the 20B MXFP4 checkpoint from safetensors, MXFP4 kept 4-bit on the GPU, sm_120a codegen proven, built-in server speaking /v1/messages and /v1/messages/count_tokens",
+  "size_on_disk": "291M",
+  "tag": "v0.9.3",
+  "tree": "upstream/llm/engine/mistral.rs",
+  "upstream_url": "https://github.com/EricLBuehler/mistral.rs"
+}

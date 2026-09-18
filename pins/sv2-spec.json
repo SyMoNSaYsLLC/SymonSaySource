@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "stratum",
+  "component": "sv2-spec",
+  "intended_revision": "67d2178e12b2c3da948f656b0e1030afafb8d891",
+  "intended_tag_version": "UNTAGGED (commit pin 67d2178e12b2)",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "crypto: Stratum V2 specification (REFERENCE-ONLY).",
+  "revision_authority": "release decision",
+  "runtime": "crypto",
+  "upstream_url": "https://github.com/stratum-mining/sv2-spec"
+}

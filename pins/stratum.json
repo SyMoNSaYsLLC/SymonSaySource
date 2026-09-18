@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "stratum",
+  "component": "stratum",
+  "intended_revision": "c1a7991394254c806f97a5feb4f4be771596ce69",
+  "intended_tag_version": "v1.11.1",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "crypto: Stratum V2 protocol libraries.",
+  "revision_authority": "release decision",
+  "runtime": "crypto",
+  "upstream_url": "https://github.com/stratum-mining/stratum"
+}

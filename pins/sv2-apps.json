@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "stratum",
+  "component": "sv2-apps",
+  "intended_revision": "d7d556d1a3c7e1c26dfccd076b491a38c038a5e0",
+  "intended_tag_version": "v0.7.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "crypto: Stratum V2 applications.",
+  "revision_authority": "release decision",
+  "runtime": "crypto",
+  "upstream_url": "https://github.com/stratum-mining/sv2-apps"
+}

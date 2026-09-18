@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "freetoken",
+  "component": "FreeToken",
+  "intended_revision": "9db1a39455a3fb107f3db83e381d10ceadfe5d99",
+  "intended_tag_version": "v0.1.2",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "adaptive-fabric: inference-time token optimisation.",
+  "revision_authority": "release decision",
+  "runtime": "adaptive-fabric",
+  "upstream_url": "https://github.com/FlashML-org/FreeToken"
+}

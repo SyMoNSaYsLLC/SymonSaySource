@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "DEFERRED",
+  "category": "ml",
+  "component": "torch-2.11.x",
+  "intended_revision": "UNRESOLVED",
+  "intended_tag_version": "UNRESOLVED",
+  "notes": "DECISION, not a clone: either Adaptive-Fabric gets its own torch 2.11.x tree, or Common's pin moves and every other consumer is re-evaluated, or FreeToken's constraint changes. Not resolvable by guessing.",
+  "required_by": "FreeToken build-system requires torch>=2.11,<2.12; Common holds 2.14.0.",
+  "revision_authority": "UNRESOLVED",
+  "runtime": "adaptive-fabric",
+  "upstream_url": "https://github.com/pytorch/pytorch"
+}

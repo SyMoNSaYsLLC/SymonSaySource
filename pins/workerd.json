@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "runtime",
+  "component": "workerd",
+  "intended_revision": "925464ba9fe5751e4468626ce77f7a5810df274f",
+  "intended_tag_version": "v1.20260911.1",
+  "notes": "RECONCILED to the release decision. Authority established from upstream evidence, not assertion: pnpm-lock.yaml at Wrangler 4.131.1 resolves workerd@1.20260911.1, and tag v1.20260911.1 peels to 925464ba. The previously acquired 909e388c is v1.20260912.1, one day later, cloned before the pairing decision existed. Source re-checked out and the recipe SRCREV updated to match; the recipe edit is recorded as an exception to v1.2's permitted modification set.",
+  "required_by": "web: Cloudflare Workers runtime.",
+  "revision_authority": "release decision (paired with Wrangler 4.131.1)",
+  "runtime": "web",
+  "upstream_url": "https://github.com/cloudflare/workerd"
+}

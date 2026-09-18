@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "tooling",
+  "component": "workers-sdk",
+  "intended_revision": "00ae21fa83754462721a52bcd1ff9b4fbc12f898",
+  "intended_tag_version": "wrangler@4.131.1",
+  "notes": "Previously blocked: recipetool npm handler requires nodejs-native.",
+  "required_by": "web: Wrangler tooling, paired with workerd v1.20260911.1.",
+  "revision_authority": "release decision",
+  "runtime": "web",
+  "upstream_url": "https://github.com/cloudflare/workers-sdk"
+}

@@ -1,0 +1,66 @@
+# SymonSaySource
+
+What SyMoNeuRaL builds from. One branch per upstream family, tracking the source rather than
+carrying it.
+
+## Why this repository holds no source
+
+The acquired trees are 22 GB. Putting them here would make every clone carry every upstream
+whether or not it is being worked on, and would turn a licence question into an archaeology
+problem. What matters for building from pristine source is not a copy of the bytes — it is
+knowing exactly which bytes, and being able to prove it later:
+
+- the commit, by full SHA, never a tag — a tag moves, a commit does not
+- the licence as declared, with the checksum of the licence file itself
+- the copyright line the licence obliges us to carry
+- when it was acquired, and what state that acquisition is in
+- the patches we apply, which are ours and are small
+
+A tree can be re-fetched from those facts. The facts cannot be recovered from a tree.
+
+## How it is laid out
+
+| Branch | Holds |
+|---|---|
+| `main` | this index, and nothing else |
+| one per family | the pins, licences and provenance for the components in that family |
+
+A family matches the directory the source lives in on a build host, so a branch name and a
+path are the same word.
+
+## Updating a source
+
+1. Change the pin on that family's branch: new commit SHA, new date, new licence checksum if
+   the licence file changed.
+2. Say in the same commit what moved and why. A pin that changes without a reason recorded is
+   a pin nobody can defend at a licence review.
+3. If the licence changed, that is not a routine update. It is a decision, and it is recorded
+   as one before the pin moves.
+
+## What a pin looks like
+
+```json
+{
+  "schema": "symoneural-acquisition/1",
+  "component": "wasmer",
+  "upstream_url": "https://github.com/wasmerio/wasmer",
+  "commit_sha": "a6dc5e093e151cbc0647871a6be0ba8fc7259c11",
+  "nearest_tag": "v7.4.0",
+  "declared_license": "MIT",
+  "license_md5": "71afdf3349f1efb1361cfd1e9e85bb8d",
+  "copyright": "Copyright (c) 2019-present Wasmer, Inc. and its affiliates.",
+  "acquired": "2026-09-18"
+}
+```
+
+`nearest_tag` is written down for readers and is never what gets fetched.
+
+## Rules that apply to every branch here
+
+- **Acquired source is read-only.** Nothing is ever edited in place; a build exports a
+  throwaway copy. A patch is a file on this branch, not an edit to somebody else's tree.
+- **Nothing dated August 2026.** It predates the fresh start, and a pin that lands in it is
+  flagged rather than used.
+- **No weights, in any format or size.**
+- **A licence is recorded as declared, not as assumed.** The checksum is what makes that
+  claim checkable a year later.

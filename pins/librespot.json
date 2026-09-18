@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "librespot",
+  "component": "librespot",
+  "intended_revision": "d36f9f1907e8cc9d68a93f8ebc6b627b1bf7267d",
+  "intended_tag_version": "v0.8.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "remix: Spotify protocol client.",
+  "revision_authority": "release decision",
+  "runtime": "remix",
+  "upstream_url": "https://github.com/librespot-org/librespot"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "transformers",
+  "intended_revision": "856157a2f3e9594954310df18fdccc31ffddebe9",
+  "intended_tag_version": "5.17.0+git",
+  "notes": "",
+  "required_by": "common: model implementations.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "common",
+  "upstream_url": "https://github.com/huggingface/transformers"
+}

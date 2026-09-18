@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "data",
+  "component": "pyyaml",
+  "intended_revision": "49790e73684bebad1df05ef8d828fa12f685bffb",
+  "intended_tag_version": "6.0.3",
+  "notes": "Licence MIT (LICENSE md5 6d8242660a8371add5fe547adf083079). Custom PEP 517 backend _pyyaml_pep517; C extension over libyaml. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: huggingface-hub pyyaml>=5.1; transformers pyyaml>=5.1",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/yaml/pyyaml"
+}

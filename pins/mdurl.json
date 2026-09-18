@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "mdurl",
+  "intended_revision": "596bf1c8752de45fa576a52c315d6d8cc5bb1a4e",
+  "intended_tag_version": "0.1.2",
+  "notes": "Licence MIT (LICENSE md5 aca1dc6b9088f1dda81c89cad2c77ad1). flit_core. No runtime deps - this closes the transformers -> typer -> rich -> markdown-it-py chain. Version rule: newest release tag at acquisition (2026-09-14) satisfying every recorded consumer constraint.",
+  "required_by": "common: markdown-it-py 4.2.0 Requires-Dist mdurl~=0.1",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/executablebooks/mdurl"
+}

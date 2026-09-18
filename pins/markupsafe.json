@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "markupsafe",
+  "intended_revision": "297fc8e356e6836a62087949245d09a28e9f1b13",
+  "intended_tag_version": "3.0.3",
+  "notes": "Licence BSD-3-Clause (LICENSE.txt md5 ffeffa59c90c9c4a033c7574f8f3fb75). setuptools.build_meta (C extension _speedups), no runtime deps. Version rule: newest upstream release satisfying every recorded consumer constraint; equals the layer's own version, so the OE recipe mirrors exactly.",
+  "required_by": "common: Jinja2 wheel Requires-Dist MarkupSafe>=2.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/pallets/markupsafe"
+}

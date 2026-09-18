@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "huggingface-hub",
+  "intended_revision": "495b17c8529614759ae0f1ccf1ebe9a61c148b7c",
+  "intended_tag_version": "v1.31.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "common: model/artifact distribution client.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "common",
+  "upstream_url": "https://github.com/huggingface/huggingface_hub"
+}

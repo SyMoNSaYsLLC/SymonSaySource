@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "rich",
+  "intended_revision": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+  "intended_tag_version": "v15.0.0",
+  "notes": "Licence MIT (LICENSE md5 b5f0b94fbc94f5ad9ae4efcf8a778303). poetry-core backend. Runtime deps pygments^2.13.0 and markdown-it-py>=2.2.0. ipywidgets is marked optional=true and belongs to the jupyter extra only, so the Jupyter stack is NOT pulled into this closure. Version rule: newest release tag at acquisition (2026-09-14) satisfying every recorded consumer constraint.",
+  "required_by": "common: typer 0.27.2 Requires-Dist rich>=13.8.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/Textualize/rich"
+}

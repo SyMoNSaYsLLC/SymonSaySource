@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "psutil",
+  "intended_revision": "9eea97dd6f1d16ea33f5144c8925f1ce7a0688e1",
+  "intended_tag_version": "release-7.2.2",
+  "notes": "Licence BSD-3-Clause (LICENSE md5 a9c72113a843d0d732a0ac1c200d81b1). setuptools.build_meta (C extensions _psutil_linux, _psutil_posix), no runtime deps. Version rule: newest upstream release satisfying every recorded consumer constraint; equals the layer's own version, so the OE recipe mirrors exactly.",
+  "required_by": "common: accelerate install_requires psutil (unconditional)",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/giampaolo/psutil"
+}

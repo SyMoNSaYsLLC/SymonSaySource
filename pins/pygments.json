@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "pygments",
+  "intended_revision": "a43b45dcf081b6010c6ab4428f149f7f6d2499c4",
+  "intended_tag_version": "2.21.0",
+  "notes": "Licence BSD-2-Clause (LICENSE md5 36a13c90514e2899f1eba7f41c3ee592). hatchling. No runtime deps. Version rule: newest release tag at acquisition (2026-09-14) satisfying every recorded consumer constraint.",
+  "required_by": "common: rich 15.0.0 Requires-Dist pygments>=2.13.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/pygments/pygments"
+}

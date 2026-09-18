@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "hf-xet",
+  "intended_revision": "de71453d952bd8b806edaa997c72313051a49050",
+  "intended_tag_version": "v1.6.0",
+  "notes": "Licence Apache-2.0 (LICENSE md5 86d3f3a95c324c9479bd8986968f4327). Rust monorepo (xet-core); the Python distribution hf-xet is the hf_xet/ subdirectory, maturin backend, no runtime deps. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: huggingface-hub wheel Requires-Dist hf-xet<2.0.0,>=1.5.2 (x86_64)",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/huggingface/xet-core"
+}

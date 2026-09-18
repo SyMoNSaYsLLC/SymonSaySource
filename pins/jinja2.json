@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "jinja2",
+  "intended_revision": "15206881c006c79667fe5154fe80c01c65410679",
+  "intended_tag_version": "3.1.6",
+  "notes": "Licence BSD-3-Clause (LICENSE.txt md5 5dc88300786f1c214c1e9827a5229462). flit_core, runtime dep MarkupSafe>=2.0 -> symoneural-markupsafe. Version rule: newest upstream release satisfying every recorded consumer constraint; equals the layer's own version, so the OE recipe mirrors exactly.",
+  "required_by": "common: torch wheel Requires-Dist jinja2 (unconditional)",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/pallets/jinja"
+}

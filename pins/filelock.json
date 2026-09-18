@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "filelock",
+  "intended_revision": "4efd93e0482e8095a0b6949fb337206e7f67495d",
+  "intended_tag_version": "3.32.6",
+  "notes": "Licence MIT (LICENSE md5 2c6acbdf7bb74caa37512c3a5ca6857b). hatchling, no runtime deps. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: huggingface-hub wheel Requires-Dist filelock>=3.10.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/tox-dev/filelock"
+}

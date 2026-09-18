@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "markdown-it-py",
+  "intended_revision": "36c5f547144df2d01970a5792d68c71a3380b227",
+  "intended_tag_version": "v4.2.0",
+  "notes": "Licence MIT (LICENSE md5 a38a1697260a7ad7bf29f44b362db1fc). flit_core. Runtime dep mdurl~=0.1. Version rule: newest release tag at acquisition (2026-09-14) satisfying every recorded consumer constraint.",
+  "required_by": "common: rich 15.0.0 Requires-Dist markdown-it-py>=2.2.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/executablebooks/markdown-it-py"
+}

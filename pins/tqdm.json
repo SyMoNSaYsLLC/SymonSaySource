@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "tqdm",
+  "intended_revision": "9cf5a12b1f955468a17f0ba3c59092b23e4258ac",
+  "intended_tag_version": "v4.70.1",
+  "notes": "Licence MPL-2.0 AND MIT (LICENCE md5 9a9bed097dea538bf341c8623c8f8852). setuptools. Its only dependency, colorama, is gated on platform_system == Windows and is false for this target. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: huggingface-hub tqdm>=4.42.1; transformers tqdm>=4.60",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/tqdm/tqdm"
+}

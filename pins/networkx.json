@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "networkx",
+  "intended_revision": "7530809bfa1ea7ed6fdf918a4d1431488953cb1f",
+  "intended_tag_version": "networkx-3.6.1",
+  "notes": "Licence BSD-3-Clause (LICENSE.txt md5 f7592b173aee2da0e062f9cfa0378e9d). setuptools.build_meta, no runtime deps (pyproject dependencies = []; meta-python's python3-decorator edge is stale). Version rule: newest upstream release satisfying every recorded consumer constraint; equals the layer's own version, so the OE recipe mirrors exactly.",
+  "required_by": "common: torch wheel Requires-Dist networkx>=2.5.1 (unconditional)",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/networkx/networkx"
+}

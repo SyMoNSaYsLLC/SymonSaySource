@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "setuptools",
+  "intended_revision": "72e919a8b10aaafc041205d4e3ae0e6a2e1e5f87",
+  "intended_tag_version": "v84.0.0",
+  "notes": "Licence MIT (LICENSE md5 141643e11c48898150daa83802dbc65f). setuptools.build_meta (self-hosted via python3-setuptools-native), no runtime deps. Version rule: newest upstream release satisfying every recorded consumer constraint; equals the layer's own version, so the OE recipe mirrors exactly.",
+  "required_by": "common: torch wheel Requires-Dist setuptools>=77.0.3 (unconditional)",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/pypa/setuptools"
+}

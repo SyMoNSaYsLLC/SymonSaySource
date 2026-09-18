@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "tokenizers",
+  "intended_revision": "88a4498ad4ea1a9487b0a9b0ff881383fd5a06a3",
+  "intended_tag_version": "v0.23.2",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "common: tokenisation.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "common",
+  "upstream_url": "https://github.com/huggingface/tokenizers"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "fsspec",
+  "intended_revision": "9e22b60ea6e96fbe8635e88cc71909bdd2850e60",
+  "intended_tag_version": "2026.7.0",
+  "notes": "Licence BSD-3-Clause (LICENSE md5 b38a11bf4dcdfc66307f8515ce1fbaa6). hatchling, no runtime deps. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: huggingface-hub wheel Requires-Dist fsspec>=2023.5.0",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/fsspec/filesystem_spec"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "accelerate",
+  "intended_revision": "6afc1e5ee217051fde702b23de2813344dc0fd33",
+  "intended_tag_version": "1.15.0+git",
+  "notes": "",
+  "required_by": "common: device placement.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "common",
+  "upstream_url": "https://github.com/huggingface/accelerate"
+}

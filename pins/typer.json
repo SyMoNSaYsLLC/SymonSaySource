@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "typer",
+  "intended_revision": "99eb220df7c69a0f14a0b69214042677e0760b9d",
+  "intended_tag_version": "0.27.2",
+  "notes": "Licence MIT (LICENSE md5 173d405eb704b1499218013178722617). pdm.backend. Declares shellingham>=1.3.0, rich>=13.8.0 and annotated-doc>=0.0.2 at runtime; annotated-doc is already SYMONEURAL-OWNED by the API, shellingham and rich are NOT yet acquired and are recorded as pending. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: transformers wheel Requires-Dist typer",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/fastapi/typer"
+}

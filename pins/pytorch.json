@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "pytorch",
+  "intended_revision": "2b3ec34829036a65cd9d1398ea72a0167dc37470",
+  "intended_tag_version": "v2.14.0",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "common: tensor/autograd core consumed by LLM, Diffuse and Studio.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "common",
+  "upstream_url": "https://github.com/pytorch/pytorch"
+}

@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "text",
+  "component": "regex",
+  "intended_revision": "7dd71c15c4fb5c94206bed1763abd4c2bd2f1b33",
+  "intended_tag_version": "2026.9.10",
+  "notes": "Licence Apache-2.0 AND CNRI-Python (LICENSE.txt md5 7b5751ddd6b643203c31ff873051d069). setuptools; C extension. Version rule: the tag already recorded in pending-acquisitions.json, which was chosen as the newest release satisfying every recorded consumer constraint.",
+  "required_by": "common: transformers wheel Requires-Dist regex>=2025.10.22",
+  "revision_authority": "same",
+  "runtime": "common",
+  "upstream_url": "https://github.com/mrabarnett/mrab-regex"
+}

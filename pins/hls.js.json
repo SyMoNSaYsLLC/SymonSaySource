@@ -1,0 +1,13 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "hls",
+  "component": "hls.js",
+  "intended_revision": "e5ff3583965e3af16c4a4b4d2b5f7bd1ffb5b7de",
+  "intended_tag_version": "v1.7.3",
+  "intended_tag_version_previous": "1.0+git",
+  "notes": "",
+  "required_by": "streamer: HLS playback.",
+  "revision_authority": "release decision",
+  "runtime": "streamer",
+  "upstream_url": "https://github.com/video-dev/hls.js"
+}

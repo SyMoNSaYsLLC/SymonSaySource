@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "joblib",
+  "intended_revision": "cd9a6b05fc4f2b1c8202eb62c4e863484f8cc099",
+  "intended_tag_version": "1.6.0",
+  "notes": "Licence BSD-3-Clause (LICENSE.txt in tree).",
+  "required_by": "ravencalc: scikit-learn 1.9.1 wheel Requires-Dist joblib>=1.4.0",
+  "revision_authority": "work/tools/check-python-runtime-closures.py 2026-09-13 - newest stable satisfying the constraint; own what you ship",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/joblib/joblib"
+}

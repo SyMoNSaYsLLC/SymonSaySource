@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "numerics",
+  "component": "numpy",
+  "intended_revision": "dd88c0c19b54ad9ed3533224221285bf0873249a",
+  "intended_tag_version": "2.5.3",
+  "notes": "",
+  "required_by": "ravencalc: array core.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/numpy/numpy"
+}

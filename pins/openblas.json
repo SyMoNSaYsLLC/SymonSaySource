@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "blas",
+  "component": "openblas",
+  "intended_revision": "e0166008be8e466242aa76b2ff75ce3f0fbf574a",
+  "intended_tag_version": "0.3.34",
+  "notes": "",
+  "required_by": "ravencalc: BLAS/LAPACK kernels.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/OpenMathLib/OpenBLAS"
+}

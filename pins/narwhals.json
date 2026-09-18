@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "dataframe",
+  "component": "narwhals",
+  "intended_revision": "e34715d1e9e2bd6f5306662e8ad495eaf0c1325a",
+  "intended_tag_version": "v2.26.0",
+  "notes": "Licence MIT (LICENSE.md in tree).",
+  "required_by": "ravencalc: scikit-learn 1.9.1 wheel Requires-Dist narwhals>=2.0.1",
+  "revision_authority": "same",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/narwhals-dev/narwhals"
+}

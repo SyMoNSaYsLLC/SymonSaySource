@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "ml",
+  "component": "scikit-learn",
+  "intended_revision": "866c0f51e7560ef0303cbcc5f159df5382ea9e3f",
+  "intended_tag_version": "1.9.1",
+  "notes": "",
+  "required_by": "ravencalc: classical ML.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/scikit-learn/scikit-learn"
+}

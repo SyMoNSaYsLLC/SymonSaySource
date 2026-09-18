@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "numerics",
+  "component": "scipy",
+  "intended_revision": "e4e854eaa8f18d807cd3496028e257e36caa93cc",
+  "intended_tag_version": "1.18.1",
+  "notes": "",
+  "required_by": "ravencalc: scientific routines.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/scipy/scipy"
+}

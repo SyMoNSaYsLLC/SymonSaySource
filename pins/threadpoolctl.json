@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "util",
+  "component": "threadpoolctl",
+  "intended_revision": "d5bf10bcf90d9a8a315fe9496fb1bc97007d2fea",
+  "intended_tag_version": "3.6.0",
+  "notes": "Licence BSD-3-Clause (LICENSE in tree).",
+  "required_by": "ravencalc: scikit-learn 1.9.1 wheel Requires-Dist threadpoolctl>=3.5.0",
+  "revision_authority": "same",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/joblib/threadpoolctl"
+}

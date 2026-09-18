@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "devtools",
+  "component": "pybind11",
+  "intended_revision": "d03662f0984f652b60e7ddce53d3868002275197",
+  "intended_tag_version": "v3.0.4",
+  "notes": "SyMoNeuRaL-OWNED build dependency, acquired 2026-09-13. Mirrors meta-python's recipe repointed at the estate's pinned tree; licence md5 matches. Owned because pybind11 is header-only: its headers are compiled INTO scipy's _duccfft extension and ship inside our binary. Own what you ship.",
+  "required_by": "symoneural-scipy (_duccfft C++ bindings)",
+  "revision_authority": "git ls-remote tag dereference, verified against the acquired tree",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/pybind/pybind11"
+}

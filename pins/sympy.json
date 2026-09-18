@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "ACQUIRED",
+  "category": "symbolic",
+  "component": "sympy",
+  "intended_revision": "16fa855354eb7bcabd3fe10993841e03b1382692",
+  "intended_tag_version": "1.14.0",
+  "notes": "",
+  "required_by": "ravencalc: symbolic maths.",
+  "revision_authority": "session selection - approved plan (latest upstream stable)",
+  "runtime": "ravencalc",
+  "upstream_url": "https://github.com/sympy/sympy"
+}

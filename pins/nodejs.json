@@ -1,0 +1,12 @@
+{
+  "acquisition_state": "DEFERRED",
+  "category": "provider",
+  "component": "nodejs",
+  "intended_revision": "UNRESOLVED",
+  "intended_tag_version": "UNRESOLVED",
+  "notes": "DECISION, not a clone: acquire Node as SyMoNeuRaL source, add a pinned meta-openembedded layer, or treat the TypeScript SDKs as REFERENCE-ONLY.",
+  "required_by": "npm.bbclass DEPENDS on nodejs-native; blocks all Node/TypeScript recipes.",
+  "revision_authority": "UNRESOLVED",
+  "runtime": "<build-stack>",
+  "upstream_url": "UNRESOLVED"
+}

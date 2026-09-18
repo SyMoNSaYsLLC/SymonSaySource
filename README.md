@@ -26,7 +26,30 @@ A tree can be re-fetched from those facts. The facts cannot be recovered from a 
 | one per family | the pins, licences and provenance for the components in that family |
 
 A family matches the directory the source lives in on a build host, so a branch name and a
-path are the same word.
+path are the same word. Where a family sits under another — storage under common, the engine
+and the WebAssembly runtime under llm — the branch flattens the separator, because a name
+cannot be both a branch and a directory of branches.
+
+| Branch | Components | Licences declared |
+|---|---|---|
+| `adaptive-fabric` | 1 | — |
+| `api` | 15 | — |
+| `build` | 6 | — |
+| `build-stack` | 1 | — |
+| `cli` | 19 | — |
+| `common` | 23 | — |
+| `common-storage` | 0 | MIT |
+| `crypto` | 2 | — |
+| `diffuse` | 0 | — |
+| `live` | 0 | — |
+| `llm` | 3 | — |
+| `llm-engine` | 0 | MIT |
+| `llm-wasm` | 1 | MIT |
+| `platform` | 7 | — |
+| `ravencalc` | 11 | — |
+| `remix` | 0 | — |
+| `streamer` | 0 | — |
+| `web` | 1 | — |
 
 ## Updating a source
 

@@ -1,0 +1,90 @@
+SymonSaysLLC Proprietary License
+Version 1.0
+
+SPDX short identifier: LicenseRef-SymonSaysLLC-Proprietary-1.0
+
+Copyright (c) 2026 SymonSaysLLC
+
+## Summary
+
+This is a source-available licence, not an open source one. You may read the source, run it,
+change it and share it. You may not use it to compete with SymonSaysLLC. Two years after a
+given version is released, that version becomes Apache License 2.0 and every restriction
+below falls away.
+
+The summary is not the licence. The terms below are.
+
+## 1. Definitions
+
+"Licensor" is SymonSaysLLC.
+
+"Software" is the work this licence accompanies, in source or compiled form, including any
+part of it.
+
+"Version" is a released state of the Software, identified by its release tag.
+
+"Release Date" of a Version is the date that Version was first made available by the Licensor.
+
+"Change Date" of a Version is two years after its Release Date.
+
+"Change License" is the Apache License, Version 2.0.
+
+"Competing Use" is making the Software, or a work derived from it, available to a third party
+as a product or service whose primary function is substantially the same as a product or
+service the Licensor offers or has publicly announced. Internal use is never a Competing Use,
+however large the organisation. Use inside a product whose primary function is something else
+is never a Competing Use.
+
+## 2. Grant
+
+Subject to section 3, the Licensor grants you a worldwide, royalty-free, non-exclusive
+licence to use, copy, modify, create derivative works of, and redistribute the Software and
+works derived from it, for any purpose other than a Competing Use.
+
+## 3. Conditions
+
+You must keep this licence, the copyright notice, and any NOTICE file with every copy you
+distribute, and state plainly what you changed.
+
+You must not remove or alter any notice of licence, copyright or attribution in the Software.
+
+The trade marks, names and logos of the Licensor are not licensed here. Nothing in this
+licence permits their use.
+
+## 4. The Change Date
+
+On the Change Date of a Version, that Version is additionally made available to you under the
+Change License, and from that moment you may use it under either this licence or the Change
+License, at your option.
+
+The Change Date applies per Version. A later Version released after this one has its own,
+later Change Date. Nothing you do can bring a Change Date forward, and nothing the Licensor
+does can push one back.
+
+## 5. Termination
+
+If you breach this licence, your rights under it end automatically. They are reinstated if
+you cure the breach within 30 days of becoming aware of it, unless the Licensor has already
+notified you of the breach, in which case reinstatement is at the Licensor's discretion.
+
+Termination does not affect rights you have already acquired under the Change License for a
+Version whose Change Date has passed.
+
+## 6. No patent licence beyond use
+
+No patent rights are granted except those necessarily infringed by using the Software as the
+Licensor distributes it.
+
+## 7. Warranty and liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 8. Notice to place on a covered work
+
+    Licensed under the SymonSaysLLC Proprietary License, Version 1.0.
+    Copyright 2026 SymonSaysLLC.
+    Becomes Apache-2.0 two years after this version's release date.

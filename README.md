@@ -84,7 +84,7 @@ cannot be both a branch and a directory of branches.
 
 - **Acquired source is read-only.** Nothing is ever edited in place; a build exports a
   throwaway copy. A patch is a file on this branch, not an edit to somebody else's tree.
-- **Nothing dated August 2026.** It predates the fresh start, and a pin that lands in it is
+- **Nothing dated August 2026.** It predates the fresh start, and a pin that lands in it is <!-- gate-allow: no-august — states the rule, does not use an August artifact -->
   flagged rather than used.
 - **No weights, in any format or size.**
 - **A licence is recorded as declared, not as assumed.** The checksum is what makes that

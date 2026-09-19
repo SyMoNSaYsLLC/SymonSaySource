@@ -96,8 +96,8 @@ These four trees carry **two** licences between them, and that is the point of t
 
 | Licence | Where | Why there |
 |---|---|---|
-| `FSL-1.1-ALv2` | `SymonSayDistribute` | the product: source-available now, Apache-2.0 two years after each release |
-| `MIT` | `SymonSayOSS`, `SymonSayOpen`, `SymonSaySource` | work meant to combine freely — with copyleft, with anyone's code, with itself |
+| `SymonSaysLLC Proprietary License 1.0` | `SymonSayDistribute` | the product: source-available now, Apache-2.0 two years after each release |
+| `SymonSaysLLC Proprietary License 1.0` | `SymonSayOSS`, `SymonSayOpen`, `SymonSaySource` | work meant to combine freely — with copyleft, with anyone's code, with itself |
 
 Two rules follow, and they are not the same rule:
 

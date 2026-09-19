@@ -44,7 +44,7 @@ and the checksum of the licence file itself.
 Change its pin, and say in the same commit what moved and why. A licence change is
 not a routine update: it is a decision, recorded as one before the pin moves.
 
-Nothing dated August 2026 may be used; a pin that lands in it is flagged rather than
+Nothing dated August 2026 may be used; a pin that lands in it is flagged rather than <!-- gate-allow: no-august — states the rule, does not use an August artifact -->
 built from. Acquired source is read-only — a patch is a file here, never an edit to
 somebody else's tree.
 

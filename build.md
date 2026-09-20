@@ -1,4 +1,21 @@
-# build — source we build from
+# build
+
+The `build` branch of `SymonSaySource`.
+
+§3.7: this is the map. Every directory below is listed with what lives there and
+why a reader would go to it.
+
+## Directories
+
+| Directory | Holds |
+|---|---|
+| [`pins`](pins/pins.md) | what this branch builds from, by full SHA — 7 pin(s) |
+
+## build — source we build from
+
+*Folded in from `sources.md` on 2026-09-20: §3.7 allows one
+document per directory. Nothing was lost — the original file is at
+`/home/google/Desktop/claude/quarantine-3.7-2026-09-20/mnt/SymonSaySource/build/sources.md`.*
 
 7 components. Pins are in `pins/`, one file per component.
 
@@ -32,3 +49,7 @@ built from. Acquired source is read-only — a patch is a file here, never an ed
 somebody else's tree.
 
 The index of families is on `main`.
+
+## Where this leads
+
+Into [`pins`](pins/pins.md).

@@ -1,6 +1,6 @@
 # pins
 
-What this branch builds from: 20 pinned upstream(s).
+What this branch builds from: 21 pinned upstream(s).
 
 §3.1a: source is tracked, not carried. Each record holds the commit by full SHA, the
 declared licence with its checksum, the copyright line and the acquisition date —
@@ -13,6 +13,7 @@ never the source bytes.
     cffi.json
     cryptography.json
     docstring-parser.json
+    github-mcp-server.json
     httpx2.json
     jiter.json
     jsonschema-specifications.json

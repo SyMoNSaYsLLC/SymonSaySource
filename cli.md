@@ -17,7 +17,7 @@ why a reader would go to it.
 document per directory. Nothing was lost — the original file is at
 `/home/google/Desktop/claude/quarantine-3.7-2026-09-20/mnt/SymonSaySource/cli/sources.md`.*
 
-20 components. Pins are in `pins/`, one file per component.
+21 components. Pins are in `pins/`, one file per component.
 
 This branch carries no upstream source. It carries what is needed to fetch exactly
 the same source again and to defend that choice later: the commit, the declared licence,
@@ -31,6 +31,7 @@ and the checksum of the licence file itself.
 | `cffi` | ACQUIRED | — | `fd33e7700f0e` |
 | `cryptography` | ACQUIRED | — | `ffde75a2b594` |
 | `docstring-parser` | ACQUIRED | — | `87dca55a7b5b` |
+| `github-mcp-server` | ACQUIRED | MIT | `85598ba6e125` |
 | `httpx2` | ACQUIRED | — | `71ae23be5448` |
 | `jiter` | ACQUIRED | — | `2b5ec63e505b` |
 | `jsonschema` | ACQUIRED | — | `a7277432b0f7` |

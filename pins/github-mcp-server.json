@@ -1,0 +1,21 @@
+{
+  "schema": "symoneural-acquisition/1",
+  "acquisition_state": "ACQUIRED",
+  "category": "mcp",
+  "component": "github-mcp-server",
+  "classification": "DEPENDENCY",
+  "upstream_url": "https://github.com/github/github-mcp-server",
+  "commit_sha": "85598ba6e1256f7ebf4867b95d63b833c4549264",
+  "intended_revision": "85598ba6e1256f7ebf4867b95d63b833c4549264",
+  "nearest_tag": "v1.12.2",
+  "intended_tag_version": "v1.12.2",
+  "declared_license": "MIT",
+  "license_md5": "f18975c8ab63090d23782cb7da010a25",
+  "copyright": "Copyright (c) 2025 GitHub",
+  "acquired": "2026-09-20",
+  "acquired_form": "official release asset github-mcp-server_Linux_x86_64.tar.gz, sha256 95843162759da2c31dde082dd145be35db82164594796c294414b69790c2290e; binary sha256 b7a96bf79c68c0d4d0cdb5713e9ff36a1730b87ee3ae710e2e6189f398d7c1aa; source tree not yet acquired (go.mod requires Go 1.25.12, host has 1.24.4)",
+  "required_by": "SymonSayDistribute branch symongithub: the coder's GitHub MCP server, invoked as a separate process, never linked.",
+  "revision_authority": "latest upstream release on 2026-09-20 (published 2026-09-16); §6.4 item 36, bleeding-edge current release",
+  "runtime": "cli",
+  "notes": "Invoked, not linked: the MIT obligation is attribution only and travels with the installed LICENSE beside the binary."
+}
